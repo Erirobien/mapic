@@ -1,0 +1,80 @@
+html {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+body{
+    margin: 0px;
+    
+}
+#header{
+    background-color: rgb(69, 104, 119);
+    display: inline-block;
+	height: 150px;
+	width: 100%;
+	font-size: 24px;
+    vertical-align: top;
+}
+#main{
+    display: inline-block;
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(218, 202, 181);
+}
+#footer{
+    background-color: rgb(69, 104, 119);
+    display: inline-block;
+    height: 250px;
+	width: 100%;
+    vertical-align: bottom;
+}
+.logo{
+    margin-left: 200px;
+}
+.logo h1{
+    font-size: 250%;
+	color:rgb(218, 212, 141) ;
+}
+.logo a{
+    text-decoration: none;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 22px;
+    margin-left: 20%;
+    color:  rgb(88, 83, 68);
+    font-size: 130%;
+}
+
+.content{
+    margin-top: 60px;
+    margin-left: 38%;
+    width: 350px;
+    height: 410px;
+    display: block;
+    border: 1px solid rgb(88, 83, 68);
+    background-color: rgb(218, 198, 171);
+}
+h2{
+    font-size: 180%;
+    color:  rgb(77, 71, 55);
+    text-align: center;
+}
+input{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    width: 200px;
+    outline: none;
+}
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 110%;
+    width:  210px;
+    background-color: rgb(88, 116, 119);
+	color:rgb(218, 212, 141) ;
+}
+main.a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+    width: 163px;
+	color:rgb(66, 86, 88);
+    text-decoration-line: underline;
+}
